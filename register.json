@@ -7,9 +7,7 @@
       "target": "kubecell.pages.dev"
     }
   },
-  "openrepos.sh": {},
-  "repos.one": {},
-  "sourcepage.io": {},
-  "sourcepage.org": {},
-  "sourcepage.sh": {}
-}
+  "loveletter": {
+  "repo": "https://github.com/lcvebox/letter",
+  "target": "lcvebox.github.io"
+},
